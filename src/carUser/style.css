@@ -1,0 +1,10 @@
+/* Базовые стили для таблицы */
+.table-drivers, .th-driver, .td-driver {
+    text-align: left;
+    padding: 8px;
+}
+
+/* Стили для мобильных устройств */
+@media (max-width: 600px) {
+    
+}
